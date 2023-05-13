@@ -5,13 +5,13 @@ Captain Vargain:
   
  ##
  
-<h5> Stay inside (there's no creative name) [PASSIVE] </h5>
+<h3> Stay inside (there's no creative name) [PASSIVE] </h3>
 <p> It will slow you when you try to escape my mission. We're friends, right? </p>
-<h5> Heal [3 FUEL; "H"] </h5>
+<h3> Heal [3 FUEL; "H"] </h3>
 <p> Heal 1 HP </p>
-<h5> Rotate [1 FUEL; "R"] </h5>
+<h3> Rotate [1 FUEL; "R"] </h3>
 <p> Rotate your spaceship 180 degrees very fast </p>
-<h5> Fast-Fire [1 FUEL; "F"] </h5>
+<h3> Fast-Fire [1 FUEL; "F"] </h3>
 <p> ... </p>
-<h5> Anti-matter [1 FUEL; "M"] </h5>
+<h3> Anti-matter [1 FUEL; "M"] </h3>
 <p> What if we have a negative value in the gravity formula? </p>
