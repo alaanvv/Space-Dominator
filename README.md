@@ -1,1 +1,1 @@
-Take a look on the [game page](alaanvv.itch.io/space-dominator)
+Take a look on the [game page](https://alaanvv.itch.io/space-dominator)
