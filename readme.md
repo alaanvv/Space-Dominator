@@ -9,8 +9,3 @@
 
   No spoilers, just play this (*5 minutes longer*)
 </div>
-
----
-
-> I just noticed I've deleted the game files,  
-> and by some reason I just upload the **.yyz** here 
